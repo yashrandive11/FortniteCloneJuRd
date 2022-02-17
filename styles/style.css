@@ -1,3 +1,10 @@
-body{
-  
+/* navbar */
+
+.navbar{
+  background-color: #6610f2 !important;
+}
+
+#fornite_text{
+font-size: 10%;
+font-family: 'Rowdies', cursive;
 }
